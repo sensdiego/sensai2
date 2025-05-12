@@ -1,1 +1,8 @@
 streamlit
+python-dotenv
+streamlit
+pandas
+requests
+openai
+langchain
+numpy
